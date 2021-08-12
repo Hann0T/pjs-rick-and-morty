@@ -1,15 +1,12 @@
 import React from "react";
 import ReactDOM from "react-dom";
 
-import Home from "./pages/Home";
-import Layout from "./components/Layout";
-// import Header from "./components/Header";
+// import Home from "./pages/Home";
+// import Layout from "./components/Layout";
+import App from "./components/App";
+
+import "./global.css";
 
 const mainContainer = document.getElementById("App");
 
-ReactDOM.render(
-    <Layout>
-        <Home />
-    </Layout>,
-    mainContainer
-);
+ReactDOM.render(<App></App>, mainContainer);

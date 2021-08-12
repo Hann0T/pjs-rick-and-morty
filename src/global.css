@@ -1,0 +1,23 @@
+body {
+    background-color: #15171f;
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    box-sizing: border-box;
+    max-width: 1170px;
+    margin: 0 auto;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+@media screen and (max-width: 1170px) {
+    .container {
+        padding: 0 50px;
+    }
+}

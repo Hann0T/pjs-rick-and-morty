@@ -1,0 +1,7 @@
+.loader__container {
+    grid-column-start: 1;
+    -ms-grid-column-span: 4;
+}
+.loader {
+    width: 100px;
+}
