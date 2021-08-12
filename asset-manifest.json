@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pjs-rick-and-morty/static/css/main.0449c82c.chunk.css",
+    "main.js": "/pjs-rick-and-morty/static/js/main.b302f409.chunk.js",
+    "main.js.map": "/pjs-rick-and-morty/static/js/main.b302f409.chunk.js.map",
+    "runtime-main.js": "/pjs-rick-and-morty/static/js/runtime-main.c49c14a3.js",
+    "runtime-main.js.map": "/pjs-rick-and-morty/static/js/runtime-main.c49c14a3.js.map",
+    "static/js/2.ae42c2e4.chunk.js": "/pjs-rick-and-morty/static/js/2.ae42c2e4.chunk.js",
+    "static/js/2.ae42c2e4.chunk.js.map": "/pjs-rick-and-morty/static/js/2.ae42c2e4.chunk.js.map",
+    "index.html": "/pjs-rick-and-morty/index.html",
+    "static/css/main.0449c82c.chunk.css.map": "/pjs-rick-and-morty/static/css/main.0449c82c.chunk.css.map",
+    "static/js/2.ae42c2e4.chunk.js.LICENSE.txt": "/pjs-rick-and-morty/static/js/2.ae42c2e4.chunk.js.LICENSE.txt",
+    "static/media/loader.c7d9f081.gif": "/pjs-rick-and-morty/static/media/loader.c7d9f081.gif",
+    "static/media/logo.df73b7db.png": "/pjs-rick-and-morty/static/media/logo.df73b7db.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c49c14a3.js",
+    "static/js/2.ae42c2e4.chunk.js",
+    "static/css/main.0449c82c.chunk.css",
+    "static/js/main.b302f409.chunk.js"
+  ]
+}
